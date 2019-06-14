@@ -3,6 +3,11 @@
 ### An old D-Link project that I redid to adapt it to macOS Catalina 10.15
 - This is a beta phase project for the moment.
 
+### Support Drivers:
+- RT3572,RT3072,RT3070,RT3573,MT7610,MT7610,MT7610,
+RT5370,RT2870,RT3071,RT2770,RT3573,RT5572,RT3573,
+RT3573,RT5572,RT3572
+
 ### For Mac and Hackintosh
 
 #### Credit:
@@ -24,4 +29,4 @@
 
 
 
-#### Download ➤ [WIFI-Dlink Catalina-Panel.dmg.zip ]()
+#### Download ➤ [WIFI-Dlink Catalina-Panel.dmg.zip ](https://github.com/chris1111/WIFI-Dlink-Catalina-Panel/releases/tag/V1)
