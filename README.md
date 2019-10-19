@@ -1,7 +1,11 @@
-# WIFI-Dlink Catalina-Panel
+# WIFI-Dlink Catalina-Panel-V2
+
+### Update 19 Oct 2019 WIFI-Dlink Catalina-Panel-V2
+-Support macOS Catalina 10.15 release
+### NOTE: SIP security (System Integrity Protection) and Gatekeeper must be Disable!
+
 
 ### An old D-Link project that I redid to adapt it to macOS Catalina 10.15
-- This is a beta phase project for the moment.
 
 ### Support Drivers:
 - RT3572,RT3072,RT3070,RT3573,MT7610,MT7610,MT7610,
@@ -17,7 +21,7 @@ RT3573,RT5572,RT3572
 
 #### Follow Video ⬇︎
 
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/video12.png)](https://youtu.be/gJtXJkj0O9E)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/video12.png)](https://youtu.be/y-m4Prr3Z8Q)
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/appear10.jpg)
 
@@ -29,4 +33,4 @@ RT3573,RT5572,RT3572
 
 
 
-#### Download ➤ [WIFI-Dlink Catalina-Panel.dmg.zip ](https://github.com/chris1111/WIFI-Dlink-Catalina-Panel/releases/tag/V1)
+#### Download ➤ [WIFI-Dlink Catalina-Panel.pkg.zip ](https://github.com/chris1111/WIFI-Dlink-Catalina-Panel/releases/tag/V1)
