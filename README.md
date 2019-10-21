@@ -31,7 +31,8 @@ RT3573,RT5572,RT3572
 
 
 #### Download ➤ [WIFI-Dlink Catalina-Panel.pkg.zip ](https://github.com/chris1111/WIFI-Dlink-Catalina-Panel/releases/tag/V2)
-- Update 21 Oct 2019 Correction New drivers release
+- Update 21 Oct 2019 WIFI-Dlink Catalina-Panel-V2 New drivers release
 
 
 #### Download ➤ [WIFI-Dlink Catalina-Panel.pkg.zip ](https://github.com/chris1111/WIFI-Dlink-Catalina-Panel/releases/tag/V1)
+- Update 19 Oct 2019 WIFI-Dlink Catalina-Panel-V2
