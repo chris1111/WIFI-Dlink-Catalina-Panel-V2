@@ -1,6 +1,6 @@
 # WIFI-Dlink Catalina-Panel-V2
 
-# [☞ Update program](https://github.com/chris1111/Wireless-Ralink-Panel-Utility)
+# [☞ Update program O4 Jan 2020 Works better](https://github.com/chris1111/Wireless-Ralink-Panel-Utility)
 
 ### Update 19 Oct 2019 WIFI-Dlink Catalina-Panel-V2
 ### Support macOS Catalina 10.15 release
