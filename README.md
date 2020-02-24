@@ -4,8 +4,8 @@
 
 # [☞ Update program O4 Jan 2020 Works better](https://github.com/chris1111/Wireless-Ralink-Panel-Utility)
 
-### Update 19 Oct 2019 WIFI-Dlink Catalina-Panel-V2
-### Support macOS Catalina 10.15 release
+### Update 23 Fev 2020 WIFI-Dlink Catalina-Panel-V2
+### Support macOS Catalina 10.15.4
 ### NOTE: SIP security (System Integrity Protection) and Gatekeeper must be Disable!
 
 
@@ -33,10 +33,13 @@ RT3573,RT5572,RT3572
 ## NOTE: 
 - After you have done the Set-UP the WIFI will automatically connect to any reboot or log out. You do not need to open the utility, wait for the connection! 
 
+#### Download Latest release ➤ [WIFI-Dlink Catalina-Panel.pkg.zip ](https://github.com/chris1111/WIFI-Dlink-Catalina-Panel/releases/tag/V3)
+- Update 23 Fev 2020 WIFI-Dlink Catalina-Panel-V2
+
 
 #### Download Latest release ➤ [WIFI-Dlink Catalina-Panel.pkg.zip ](https://github.com/chris1111/WIFI-Dlink-Catalina-Panel/releases/tag/V2)
 - Update 21 Oct 2019 WIFI-Dlink Catalina-Panel-V2 New drivers release
 
 
 #### Download ➤ [WIFI-Dlink Catalina-Panel.pkg.zip ](https://github.com/chris1111/WIFI-Dlink-Catalina-Panel/releases/tag/V1)
-- Update 19 Oct 2019 WIFI-Dlink Catalina-Panel-V2
+- Update 21 Oct 2019 WIFI-Dlink Catalina-Panel-V2
