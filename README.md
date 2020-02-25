@@ -4,7 +4,7 @@
 
 # [☞ Update program O4 Jan 2020 Works better](https://github.com/chris1111/Wireless-Ralink-Panel-Utility)
 
-### Update 23 Fev 2020 WIFI-Dlink Catalina-Panel-V2
+### Update 23 Feb 2020 WIFI-Dlink Catalina-Panel-V2
 ### Support macOS Catalina 10.15.4
 ### NOTE: SIP security (System Integrity Protection) and Gatekeeper must be Disable!
 
