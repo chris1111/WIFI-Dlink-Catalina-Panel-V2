@@ -2,7 +2,7 @@
 
 # WIFI-Dlink Catalina-Panel-V2
 
-# Update For Big Sur 11 and Monterey 12 ➤ [D-LinkUtility-Package](https://github.com/chris1111/D-LinkUtility-Package)
+# Update For Big Sur 11, Monterey 12 and Ventura 13 ➤ [D-LinkUtility-Package](https://github.com/chris1111/D-LinkUtility-Package)
 
 # [☞ Update program O4 Jan 2020 Works better](https://github.com/chris1111/Wireless-Ralink-Panel-Utility)
 
